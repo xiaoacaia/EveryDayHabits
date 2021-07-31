@@ -28,20 +28,11 @@
 
 
 
-## 创建项目
-首先，创建项目
+## 运行项目
 ```shell
-npm init vite <project-name> --template vue
-cd <project-name>
 npm install
-npm i element-plus
 npm run dev
 ```
-我的 project-name 叫 good_habits，项目结构如下
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7352116041034e7f963fbe93613ca4f2.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMwNzYzMzg1,size_16,color_FFFFFF,t_70)
-
-
-
 
 ## 打包
 
