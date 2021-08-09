@@ -116,12 +116,12 @@ export default {
       existPage: new Set(),
       habits: [
         { name: "理性", explain: "不做事后会让自己后悔的事情" },
-        { name: "当下", explain: "活在当下" },
+        { name: "当下", explain: "活在当下，不留恋，不妄想" },
         { name: "节制", explain: "食不过饱" },
         // { name: "秩序", explain: "有条不紊，注重细节" },
+        { name: "决心", explain: "决心做的事情必须去做，不要拖延" },
         { name: "慎言", explain: "言必益人益己，避免无益的闲聊" },
         // { name: "行动", explain: "完成当下可以完成的事情，不要拖延" },
-        { name: "决心", explain: "决心做的事情必须去做，不要拖延" },
         { name: "思考", explain: "花半个小时以上阅读，深度思考" },
         { name: "适度", explain: "劳逸结合，注重效率" },
         // {
