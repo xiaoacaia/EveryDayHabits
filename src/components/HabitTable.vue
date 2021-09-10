@@ -115,7 +115,8 @@ export default {
       startvalue: "",
       existPage: new Set(),
       habits: [
-        { name: "理性", explain: "不做事后会让自己后悔的事情" },
+        {name: "理性", explain: "自知之明，遵循客观规律，不要想当然，认为即使什么都没有做，事情也会随着自己的想法进行"},
+        // { name: "理性", explain: "不做事后会让自己后悔的事情" },
         { name: "当下", explain: "活在当下，不留恋，不妄想" },
         { name: "节制", explain: "食不过饱" },
         // { name: "秩序", explain: "有条不紊，注重细节" },
